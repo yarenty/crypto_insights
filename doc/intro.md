@@ -1,68 +1,37 @@
-# Set of technology updates and tips
+# Insights about crypto 
 
-All this is build using mdbook.
+## Links
 
-```shell
-mdbook serve --open
-```
+### Trade
 
-mdBook is a command line tool to create books with Markdown. It is ideal for creating product or API documentation, tutorials, course materials or anything that requires a clean, easily navigable and customizable presentation.
+- [Binance](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00C0K467DN) - currently this is probably the biggest trading platform with most of the features / coins
+- [Crypto.com](https://crypto.com/exch/yygspvnpyp) - as of 2022 - looks like most aggressive trading platform 
+- [Poloniex](https://poloniex.com/signup?c=7ZTFB6ZC) - that's where I started, sand still there
+- [Coinbase](https://www.coinbase.com/join/nowosa_w) - great app, first which had possibility to change crypto to fiat
+- [Kanga](https://trade.kanga.exchange/?refToken=1m2D2XXx04eS) - growing trading platform  (also in PLN)
+- [Kucoin](https://www.kucoin.com/r/rf/r31SCWM) - coins that are not available on other platforms
+- [Zonda](https://auth.zonda.exchange/ref/iSBi9dd8neHF) - polish trading platform
 
-- Lightweight Markdown syntax helps you focus more on your content
-- Integrated search support
-- Color syntax highlighting for code blocks for many different languages
-- Theme files allow customizing the formatting of the output
-- Preprocessors can provide extensions for custom syntax and modifying content
-- Backends can render the output to multiple formats
-- Written in Rust for speed, safety, and simplicity
-- Automated testing of Rust code samples
+### Earn 
+Get bitcoin / litecoin / and more just by clicking every day - or every hour 
 
-<https://rust-lang.github.io/mdBook/>
-
-And small tip - math is build using mathjax:
-
-\\( \int x dx = \frac{x^2}{2} + C \\)
-
-centered:
-
-\\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
+- [Free bitcoins - hourly](https://freebitco.in/?r=12194062)
+- [Free litecoin - hourly](https://free-litecoin.com/login?referer=2089682)
+- [Crypto.com](https://crypto.com/exch/yygspvnpyp) you can buy and stake CRO and every month you will get some extra crypto - check "Supercharger" - 
+- [π -  Pi is a new digital currency developed by Stanford PhDs](https://minepi.com/yarenty) - follow this link https://minepi.com/yarenty and use my username (yarenty) as your invitation code.
 
 
-And can have editable /runnable rust:
 
-```rust,editable
-fn main() {
-    let number = 5;
-    print!("{}", number);
-}
-```
+### Get crypto by walkling!
+- [SWEAT - sweatcoins](https://sweatco.in/i/jaro686908) - It Pays to Walk 🚶
+- [Coin](https://coin.onelink.me/ePJg/irrn5oan) - get XYO just by walking / driving - this is geolocation app
 
 
-Also some graphs from mermaid:
-```mermaid
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-```
+### Buy
+- [One Million](https://register.onemillion.com/?om=UPZBV0CJEI)
 
-
-```admonish warning
-A beautifully styled message.
-```
-
-```admonish warning "Data loss"
-The following steps can lead to irrecoverable data corruption.
-```
-
-~~~admonish bug
-This syntax won't work in Python 3:
-```python
-print "Hello, world!"
-```
-~~~
-
-More: <https://rust-lang.github.io/mdBook/format/mdbook.html>
+### Earn by stacking (deposit / investment)
+- [Celsius Network](https://celsiusnetwork.app.link/189655df94) using  code 189655df94 when signing up and earn $50 in BTC with your first transfer of $400 or more!
+- [Kanga](https://trade.kanga.exchange/auth/register/?refToken=1m2D2XXx04eS) 
 
 
