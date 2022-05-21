@@ -43,9 +43,13 @@ Get bitcoin / litecoin / and more just by clicking every day - or every hour
 
 - [Free bitcoins - hourly](https://freebitco.in/?r=12194062)
 - [Free litecoin - hourly](https://free-litecoin.com/login?referer=2089682)
+- [ZEN - daily](https://getzen.cash/auth/register?ref=490941) - get few zennies by clicking every day
+- [YoBit AirDrop](https://yobit.net/airdrop/bonus/XlIfT/)
 - [Crypto.com](https://crypto.com/exch/yygspvnpyp) you can buy and stake CRO and every month you will get some extra crypto - check "Supercharger" -
 - [π -  Pi is a new digital currency developed by Stanford PhDs](https://minepi.com/yarenty) - follow this link https://minepi.com/yarenty and use my username (yarenty) as your invitation code.
 
+### Airdrops
+- [YoBit AirDrop](https://yobit.net/airdrop/bonus/XlIfT/) - check everyday/ farm/ etc.. waiting for Fast dollars
 
 
 ### Get crypto by walkling!
