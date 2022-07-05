@@ -51,3 +51,5 @@ https://docs.soliditylang.org/en/latest/
 https://docs.soliditylang.org/en/latest/using-the-compiler.html
 
 
+## Gas optimization
+https://github.com/kadenzipfel/gas-optimizations
