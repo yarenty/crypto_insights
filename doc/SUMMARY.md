@@ -19,3 +19,4 @@
 - [NFT - wax](nft/wax.md)
 ---
 - [Links](links.md)
+- [Crypto Jobs](jobs.md)
